@@ -1,12 +1,16 @@
-# React + Vite
+# Website Desa Kelor Lor 🌳
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Selamat datang di repository **Website Desa Kelor Lor**, sebuah proyek website informatif dan modern yang dibuat sebagai bagian dari kegiatan **Kuliah Kerja Nyata (KKN)**. Website ini bertujuan untuk memberikan informasi seputar Desa Kelor Lor secara digital kepada masyarakat luas.
 
-Currently, two official plugins are available:
+## Fitur Utama
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Profil desa (visi, misi, sejarah, struktur organisasi)
+- Informasi kegiatan desa & berita terkini
+- Galeri foto dan dokumentasi kegiatan
+- Informasi layanan desa
+- Kontak dan lokasi desa
 
-## Expanding the ESLint configuration
+## 🚀 Cara Menjalankan Proyek
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone repository ini:
+   git clone https://github.com/SamWijaya/website-kelorlor.git
